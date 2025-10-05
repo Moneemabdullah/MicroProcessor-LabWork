@@ -13,8 +13,8 @@
 *.tmp
 *.log
 
-.list
-.~asm
-.symbol
-.debug
-.out
+*.list
+*.~asm
+*.symbol
+*.debug
+*.out
